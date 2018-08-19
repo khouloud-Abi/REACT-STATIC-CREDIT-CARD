@@ -1,0 +1,48 @@
+.credit-card {
+  background-color: #134265;
+  background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg3uvJOnyelB52_G8rO8Kk6Xnn-pT-jNX-6Ba3ARrO_ZpxarXgVg");
+  background-size: 100% 100%;
+  border-radius: 15px;
+  color: white;
+  padding: 10px;
+  height: 250px;
+}
+
+.company-name {
+  text-align: right;
+  font-size: 24px;
+  margin: 10px 10px 0;
+}
+
+.chip-icon {
+  width: 80px;
+  display: flex;
+}
+
+.card-number {
+  font-size: 24px;
+  color: rgb(252, 253, 162);
+  background-color: rgba(178, 196, 23, 0.596);
+  margin-right: 185px;
+  margin-bottom: 0px;
+}
+
+.card-valid {
+  display: flex;
+  justify-content: space-between;
+}
+
+.master-icon {
+  width: 70px;
+  height: 80px;
+  margin-left: 0px;
+}
+
+.card-holder {
+  margin-right: 280px;
+  margin-top: -20px;
+}
+
+.App {
+  width: 450px;
+}
